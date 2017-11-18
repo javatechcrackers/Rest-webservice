@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Sat May 28 01:09:34 IST 2016
+org.eclipse.jst.j2ee.server\:Spring4MVCAngularJSExample=E\:\\Softwares\\apache-tomcat-7.0.34\\wtpwebapps\\Spring4MVCAngularJSExample
+org.eclipse.jst.j2ee.server\:advanced-jaxrs-05=E\:\\Softwares\\apache-tomcat-7.0.34\\wtpwebapps\\advanced-jaxrs-05
